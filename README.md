@@ -50,7 +50,7 @@ A1 B2 B3 A1 D1 E1 D4 D4 D5 D5
 
 
 
-<pre>**Player 1 Battle Area:	                             Player 2 Battle Area(**</pre> 
+<pre>Player 1 Battle Area:	                                                        Player 2 Battle Area</pre> 
 
 ![alt text](https://user-images.githubusercontent.com/9547856/104731274-7a494b00-5761-11eb-8eac-982a5def86ea.jpg)
 
