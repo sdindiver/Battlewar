@@ -50,12 +50,12 @@ A1 B2 B3 A1 D1 E1 D4 D4 D5 D5
 
 
 
-#### Player 1 Battle Area:	                             Player 2 Battle Area
+<pre>**Player 1 Battle Area:	                             Player 2 Battle Area(**</pre> 
 
 ![alt text](https://user-images.githubusercontent.com/9547856/104731274-7a494b00-5761-11eb-8eac-982a5def86ea.jpg)
 
  
-##Sample Output:
+#### Sample Output:
 
 Player-1 fires a missile with target A1 which got miss Player-2 fires a missile with target A1 which got hit Player-2 fires a missile with target B2 which got miss Player-1 fires a missile with target B2 which got hit Player-1 fires a missile with target B2 which got hit Player-1 fires a missile with target B3 which got miss Player-2 fires a missile with target B3 which got miss Player-1 has no more missiles left to launch
 Player-2 fires a missile with target A1 which got hit Player-2 fires a missile with target D1 which got miss Player-1 has no more missiles left to launch
